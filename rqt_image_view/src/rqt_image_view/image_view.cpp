@@ -35,7 +35,7 @@
 #include <pluginlib/class_list_macros.h>
 #include <ros/master.h>
 #include <sensor_msgs/image_encodings.h>
-
+#include <opencv2/imgproc/types_c.h>
 #include <cv_bridge/cv_bridge.h>
 #include <opencv2/imgproc/imgproc.hpp>
 
